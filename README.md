@@ -9,8 +9,6 @@ Table of Contents
 =================
 
   * [Books](#books)
-    * [Idea](#malware-analysis)
-    * [Features](#features)
   * [Malware Analysis](#practice-labs)
   * [Practice Labs](#practice-labs)
   * [Phishing Analysis](#practice-labs)
@@ -32,7 +30,23 @@ Table of Contents
      * [Browser History and Cache](#features)
      * [DNS Cache/History](#features)
      * [Hosts File](#features)
-     * [Remote Desktop Protocol (RDP) Cache/History/Logs](#features)   
+     * [Remote Desktop Protocol (RDP) Cache/History/Logs](#features)
+  * [Important Windows Logs for Investigation](#important-windows-logs-for-investigation)
+     * [DLP Logs](#dlp-logs)
+     * [Endpoint Security Solutions Logs](#endpoint-security-solutions-logs)
+     * [Event Logs](#event-logs)
+     * [File Integrity Monitoring Logs](#file-integrity-monitoring-logs)
+     * [Event Logs](#event-logs)
+     * [Honeypot Logs](#honeypot-logs)
+     * [MSSQL Logs](#mssql-logs)
+     * [Powershell Logs](#powershell-logs)
+     * [Task Scheduler Logs](#task-scheduler-logs)
+     * [Windows Defender](#windows-defender)
+     * [WMI Logs](#wmi-logs)
+   * [Linux System Logs](#linux-system-logs)
+     * [Auth Log](#auth-log)
+     * [Kernel Log](#kernel-log)
+     * [Syslog](#Syslog)
 
 
 ## Books

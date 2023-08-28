@@ -9,33 +9,33 @@ Table of Contents
 =================
 
   * [Books](#books)
-  * [Malware Analysis](#practice-labs)
+  * [Malware Analysis](#malware-analysis)
   * [Practice Labs](#practice-labs)
-  * [Phishing Analysis](#practice-labs)
-  * [Tools for Investigation](#practice-labs)
-  * [Network Log Sources](#practice-labs)
-     * [Network Devices Logs](#malware-analysis)
-     * [Linux Firewall Logs](#features)
-     * [SMB Logs](#features)
-     * [Windows Firewall Logs](#features)
-  * [Network Security Devices Logs](#features)
-     * [IDS/IPS Logs](#features)
-     * [Network Firewall Logs](#features)
-     * [Web Application Firewall (WAF) Logs](#features)
+  * [Phishing Analysis](#phishing-analysis)
+  * [Tools for Investigation](#tools-for-investigation)
+  * [Network Log Sources](#network-log-sources)
+     * [Network Devices Logs](#network-devices-logs)
+     * [Linux Firewall Logs](#linux-firewall-logs)
+     * [SMB Logs](#smb-logs)
+     * [Windows Firewall Logs](#windows-firewall-logs)
+  * [Network Security Devices Logs](#network-security-devices-logs)
+     * [IDS/IPS Logs](#idsips-logs)
+     * [Network Firewall Logs](#network-firewall-logs)
+     * [Web Application Firewall (WAF) Logs](#web-application-firewall-waf-logs)
   * [Web Server Logs](#web-server-logs)
-     * [Apache Logs](#features)
-     * [IIS Logs](#features)
-     * [Nginx Logs](#features)
-  * [Forensics Artifacts](#web-server-logs)
-     * [Browser History and Cache](#features)
-     * [DNS Cache/History](#features)
-     * [Hosts File](#features)
-     * [Remote Desktop Protocol (RDP) Cache/History/Logs](#features)
+     * [Apache Logs](#apache-logs)
+     * [IIS Logs](#iis-logs)
+     * [Nginx Logs](#nginx-logs)
+  * [Forensics Artifacts](#forensics-artifacts)
+     * [Browser History and Cache](#browser-history-and-cache)
+     * [DNS Cache/History](#dns-cachehistory)
+     * [Hosts File](#hosts-file)
+     * [Remote Desktop Protocol (RDP) Cache/History/Logs](#remote-desktop-protocol-rdp-cachehistorylogs)
   * [Important Windows Logs for Investigation](#important-windows-logs-for-investigation)
-     * [DLP Logs](#dlp-logs)
+     * [DLP Logs](#dlp-data-loss-prevention-logs)
      * [Endpoint Security Solutions Logs](#endpoint-security-solutions-logs)
      * [Event Logs](#event-logs)
-     * [File Integrity Monitoring Logs](#file-integrity-monitoring-logs)
+     * [File Integrity Monitoring Logs](#file-integrity-monitoring-fim-logs)
      * [Event Logs](#event-logs)
      * [Honeypot Logs](#honeypot-logs)
      * [MSSQL Logs](#mssql-logs)
@@ -46,7 +46,7 @@ Table of Contents
    * [Linux System Logs](#linux-system-logs)
      * [Auth Log](#auth-log)
      * [Kernel Log](#kernel-log)
-     * [Syslog](#Syslog)
+     * [Syslog](#syslog)
 
 
 ## Books
@@ -60,24 +60,24 @@ Table of Contents
 
 
 ## Malware Analysis
-- [**VirusTotal**](https://virustotal.com)
-- [**Hybrid Analysis**](https://www.hybrid-analysis.com/)
-- [**YARA**](https://virustotal.github.io/yara/)
+- [**VirusTotal**](https://virustotal.com) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
+- [**Hybrid Analysis**](https://www.hybrid-analysis.com/) - This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
+- [**YARA**](https://virustotal.github.io/yara/) - YARA is a multi-platform program running on Windows, Linux and Mac OS X.
 - [**Malware Analysis Fundamentals**](https://app.letsdefend.io/training/lessons/malware-analysis-fundamentals)
-- [**Cuckoo Sandbox**](https://cuckoosandbox.org/)
-- [**IDA**](https://hex-rays.com/ida-pro/)
-- [**DOCGuard**](https://www.docguard.io/)
-- [**Cuckoo Sandbox**](https://cuckoosandbox.org/)
+- [**Cuckoo Sandbox**](https://cuckoosandbox.org/) - You can throw any suspicious file at it and in a matter of minutes Cuckoo will provide a detailed report outlining the behavior of the file when executed inside a realistic but isolated environment.
+- [**IDA**](https://hex-rays.com/ida-pro/) - IDA Pro as a disassembler is capable of creating maps of their execution to show the binary instructions that are actually executed by the processor in a symbolic representation.
+- [**DOCGuard**](https://www.docguard.io/) - Zero Miss for Office Malware Threats
 - [**Immunity Debugger**](https://www.immunityinc.com/products/debugger/) - Immunity Debugger is a dynamic analysis tool that allows executables to be analyzed at the assembly language level with reverse engineering techniques.
 
 ## Practice Labs
-- [**DetectionLab**](https://detectionlab.network/)
+- [**DetectionLab**](https://detectionlab.network/) - DetectionLab is a repository containing a variety of Packer, Vagrant, Powershell, Ansible, and Terraform scripts that allow you to automate the process of bringing an ActiveDirectory environment online complete with logging and security tooling using a variety of different platforms.
 - [**LetsDefend**](https://letsdefend.io/) - Hands-on SOC Analyst training
-- [**attack_range**](https://github.com/splunk/attack_range)
-- [**BlueTeam.Lab**](https://github.com/op7ic/BlueTeam.Lab)
+- [**attack_range**](https://github.com/splunk/attack_range) - The Splunk Attack Range is an open-source project maintained by the Splunk Threat Research Team. It builds instrumented cloud and local environments, simulates attacks, and forwards the data into a Splunk instance.
+- [**BlueTeam.Lab**](https://github.com/op7ic/BlueTeam.Lab) - The goal of this project is to provide the red and blue teams with the ability to deploy an ad-hoc detection lab to test various attacks and forensic artifacts on the latest Windows environment and then to get a 'SOC-like' view into generated data.
 
 ## Phishing Analysis
 - [**MxToolbox**](https://mxtoolbox.com/) - It will list MX records for a domain in priority order.
+- [**Phishing email analysis course - FREE** ](https://app.letsdefend.io/training/lessons/phishing-email-analysis) - Learn how to analysis of the most common attack vector in the cyber security industry.
 
 ## Tools for Investigation
 - [**Process Hacker**](https://processhacker.sourceforge.io/) - Great tool for monitoring the system and detecting suspicious situations. It’s also free.

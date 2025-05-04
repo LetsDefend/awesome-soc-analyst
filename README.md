@@ -68,6 +68,7 @@ Table of Contents
 - [**IDA**](https://hex-rays.com/ida-pro/) - IDA Pro as a disassembler is capable of creating maps of their execution to show the binary instructions that are actually executed by the processor in a symbolic representation.
 - [**DOCGuard**](https://www.docguard.io/) - Zero Miss for Office Malware Threats
 - [**Immunity Debugger**](https://www.immunityinc.com/products/debugger/) - Immunity Debugger is a dynamic analysis tool that allows executables to be analyzed at the assembly language level with reverse engineering techniques.
+- [**Hudson Rock**](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolkit to check if a specific email address was compromised in a global Infostealer malware attack.
 
 ## Practice Labs
 - [**DetectionLab**](https://detectionlab.network/) - DetectionLab is a repository containing a variety of Packer, Vagrant, Powershell, Ansible, and Terraform scripts that allow you to automate the process of bringing an ActiveDirectory environment online complete with logging and security tooling using a variety of different platforms.

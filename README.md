@@ -85,6 +85,7 @@ Table of Contents
 - [**Volatility**](https://www.volatilityfoundation.org/) - Volatility is a tool that enables the analysis of memory dumps taken from a compromised machine during the incident response process.
 - [**Wireshark**](https://www.wireshark.org/ ) - Wireshark is a tool that allows capturing, analyzing, and recording network packets passing through network interfaces on the system.
 - [**BrowsingHistoryView**](https://www.nirsoft.net/utils/browsing_history_view.html) - It gives you the history of different browsers in one table.
+- [**LERS Portal Directory**](https://ministryofcyberaffairs.com/lers) - Reference for platform law-enforcement data-request (LERS) portals (WhatsApp, Google, Apple, Telegram, TikTok, Binance) with eligibility and submission steps for escalating an investigation to a formal platform data request.
 
 ## Network Log Sources
 ### Network Devices Logs

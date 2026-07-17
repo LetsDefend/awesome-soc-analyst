@@ -74,6 +74,7 @@ Table of Contents
 - [**LetsDefend**](https://letsdefend.io/) - Hands-on SOC Analyst training
 - [**attack_range**](https://github.com/splunk/attack_range) - The Splunk Attack Range is an open-source project maintained by the Splunk Threat Research Team. It builds instrumented cloud and local environments, simulates attacks, and forwards the data into a Splunk instance.
 - [**BlueTeam.Lab**](https://github.com/op7ic/BlueTeam.Lab) - The goal of this project is to provide the red and blue teams with the ability to deploy an ad-hoc detection lab to test various attacks and forensic artifacts on the latest Windows environment and then to get a 'SOC-like' view into generated data.
+- [**InfoSecLabs**](https://infoseclabs.io/) - Hands-on SOC analyst training platform with real-world breach scenarios, 108+ CTF challenges, and AI-powered mentorship. Features enterprise tools (Splunk, Wazuh, CrowdStrike) and structured Academy paths.
 
 ## Phishing Analysis
 - [**MxToolbox**](https://mxtoolbox.com/) - It will list MX records for a domain in priority order.

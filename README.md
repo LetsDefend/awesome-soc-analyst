@@ -74,6 +74,7 @@ Table of Contents
 - [**LetsDefend**](https://letsdefend.io/) - Hands-on SOC Analyst training
 - [**attack_range**](https://github.com/splunk/attack_range) - The Splunk Attack Range is an open-source project maintained by the Splunk Threat Research Team. It builds instrumented cloud and local environments, simulates attacks, and forwards the data into a Splunk instance.
 - [**BlueTeam.Lab**](https://github.com/op7ic/BlueTeam.Lab) - The goal of this project is to provide the red and blue teams with the ability to deploy an ad-hoc detection lab to test various attacks and forensic artifacts on the latest Windows environment and then to get a 'SOC-like' view into generated data.
+- [**ExamIT Lab**](https://examitlab.com/labs/sc-200) - Free hands-on labs in a simulated Microsoft Defender/Sentinel workspace for SC-200 (Security Operations Analyst) exam prep — incident triage, threat hunting, detection engineering, no account or tenant needed.
 
 ## Phishing Analysis
 - [**MxToolbox**](https://mxtoolbox.com/) - It will list MX records for a domain in priority order.
